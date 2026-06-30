@@ -23,4 +23,4 @@ To run this script, ensure you have the following:
 ## 🏃‍♂️ How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/android-kiosk-automation.git](https://github.com/YourUsername/android-kiosk-automation.git)
+   git clone [https://github.com/nofii/android-kiosk-automation.git](https://github.com/YourUsername/android-kiosk-automation.git)
